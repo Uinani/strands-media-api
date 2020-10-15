@@ -1,0 +1,19 @@
+{
+  "name": "strands-media-api",
+  "version": "1.0.0",
+  "description": "A website image manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Uinani/strands-media-api.git"
+  },
+  "author": "Jose E. Chavez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Uinani/strands-media-api/issues"
+  },
+  "homepage": "https://github.com/Uinani/strands-media-api#readme"
+}
